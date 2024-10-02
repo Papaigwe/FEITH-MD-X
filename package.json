@@ -28,16 +28,16 @@
         "MD",
         "baileys-md"
     ],
-    "homepage": "https://github.com/papaigwe/FEITH-MD X",
+    "homepage": "https://github.com/papaigwe/FEITH-MD-X",
     "author": {
         "name": "FEITH"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/papaigwe/FEITH-MD X.git"
+        "url": "git+https://github.com/papaigwe/FEITH-MD-X.git"
     },
     "bugs": {
-        "url": "https://github.com/papaigwe/FEITH-MD X/issues"
+        "url": "https://github.com/papaigwe/FEITH-MD-X/issues"
     },
     "license": "Apache License 2.0",
     "dependencies": {
