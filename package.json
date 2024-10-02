@@ -28,16 +28,16 @@
         "MD",
         "baileys-md"
     ],
-    "homepage": "https://github.com/Guru322/GURU-BOT",
+    "homepage": "https://github.com/papaigwe/FEITH-MD X",
     "author": {
-        "name": "GURU"
+        "name": "FEITH"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Guru322/GURU-BOT.git"
+        "url": "git+https://github.com/papaigwe/FEITH-MD X.git"
     },
     "bugs": {
-        "url": "https://github.com/Guru322/GURU-BOT/issues"
+        "url": "https://github.com/papaigwe/FEITH-MD X/issues"
     },
     "license": "Apache License 2.0",
     "dependencies": {
